@@ -18,6 +18,7 @@ Greetings, prospective Recruit! We extend a warm welcome to you from the SAFD, a
 ### 🏥 Emergency Medical Care
 1. Provide basic life support (BLS) medical care to individuals in need, including assessing patients, administering first aid, and performing CPR.
 2. Administer medications, oxygen, and other medical interventions within the scope of EMT training.
+3. Providing a safe and comforting environment for patients in distress.
 
 ### 🚒 Patient Transport
 1. Safely transfer patients to ambulances or other medical transport vehicles when necessary.
